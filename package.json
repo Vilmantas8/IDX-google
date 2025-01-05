@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "idx-google",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -66,5 +66,19 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
-  }
+  },
+  "description": "node.js app",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gh repo clone Vilmantas8/IDX-google"
+  },
+  "keywords": [
+    "zvelsosg8a"
+  ],
+  "author": "vilmantas",
+  "license": "ISC"
 }
